@@ -1,3 +1,8 @@
+'''
+    Cajero made by
+    Luis Enrique Marcos
+'''
+
 from datetime import datetime
 
 saldo = 1000.00
